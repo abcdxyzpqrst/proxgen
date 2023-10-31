@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10034285.svg)](https://doi.org/10.5281/zenodo.10034285)
+
 # Adaptive Proximal Gradient Methods for Structured Neural Networks (NeurIPS 2021)
 This repo contains the official implementations of the paper "Adaptive Proximal Gradient Methods for Structured Neural Networks" published in NeurIPS 2021.
 + Jihun Yun (KAIST), Aurélie C. Lozano (IBM T.J. Watson Research Center), and Eunho Yang (KAIST, AITRICS)
